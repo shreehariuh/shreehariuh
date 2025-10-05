@@ -1,7 +1,7 @@
 # ShreeHari– Network Engineer & CCNA Certified
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HemanthMyProfile-blue)](https://www.linkedin.com/in/hemanth-gowda-807a77276/)
-[![Email](https://img.shields.io/badge/Email-hemanthg2508@gmail.com-red)](mailto:hemanthg2508@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreehari_MyProfile-blue)](https://www.linkedin.com/in/shreehari-375b74222/)
+[![Email](https://img.shields.io/badge/Email-shreehari.uh@gmail.com-red)](mailto:shreehari.uh@gmail.com)
 
 ---
 
