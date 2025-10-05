@@ -1,4 +1,7 @@
 <!-- CODE IT ⚡ — Shreehari | Network Security Engineer | AI & Cybersecurity-->
+<p align="center">
+  <img src="shreehari.jpg" alt="Shreehari Network Security Engineer" width="250"/>
+</p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="44" alt="hello" />
@@ -11,12 +14,12 @@
 
 ---
 
-## 🔥 One-line (terminal style)
+## 🚀 One-liner
 `nmap --scan Shreehari-network && echo "Host reachable - Initializing Secure AI Stack..."`
 
 ---
 
-## 🧠 About Me
+## 🧑🏻‍💼 About me
 - 🎓 B.Tech. — Information Technology (Vellore Institute of Technology, Vellore)  
 - 💼 Network Security Engineer with hands-on CCNA | CCNP | CCIE skills  
 - 🔐 Expertise: VPN (IPSec/SSL), Next-Gen Firewall (Palo Alto / FortiGate), SD-WAN, NOC operations, Automation using Ansible, Netmiko  
@@ -38,22 +41,22 @@
 </p>
 
 ---
-
-## 1. Foundational Mastery (The Core)
+## 📓 Networking Knowledge
+**1. Foundational Mastery (The Core)**
 Expertise in Layer 2 stability (RSTP/MSTP optimization, advanced switch security like DAI/IP Source Guard) and Layer 3 services (HSRP/VRRP, advanced NAT/PAT). Absolute mastery of IPv4/IPv6 dual-stack implementation and troubleshooting.
 
-## 2. Advanced Routing (The Brain)
+**2. Advanced Routing (The Brain)**
 Deep, policy-level control over routing protocols.
 - **OSPF/EIGRP:** Complex area designs, graceful shutdown, and route filtering/summarization.
 - **BGP:** Path attribute manipulation via extensive use of Route Maps, Communities, and Prefix-Lists. Must master Route Reflectors and MP-BGP for VPNs.
 - **Redistribution:** Safe and controlled redistribution across different protocols with loop prevention.
 
-## 3. Modern Transport & SDN (The Architecture)
+ **3. Modern Transport & SDN (The Architecture)**
 Focus on large-scale, automated infrastructure.
 - **MPLS & Segment Routing:** Implementing and optimizing L3VPNs and Traffic Engineering solutions.
 - **SD-Access/SD-WAN:** Expertise in Cisco DNA Center/vManage controller architectures. Deploying advanced micro-segmentation (e.g., Security Group Tags).
 
-## 4. Security & Automation (The Future)
+ **4. Security & Automation (The Future)**
 Integrating protection and efficiency into the network lifecycle.
 - **Security:** Device hardening, AAA/802.1X, Control Plane Policing (CoPP), and implementing next-gen firewalls (FTD/ASA) and ISE (Identity Services Engine).
 - **Automation:** Using Python, Ansible, and YANG/RESTCONF to deploy, operate, and optimize network infrastructure programmatically.
@@ -62,7 +65,7 @@ Integrating protection and efficiency into the network lifecycle.
 
 
 ---
-## 📚 Certifications
+## 🎓 Certification
 
 - 📜 NH Cisco Certified Network Associate (CCNA)
 - 📜 NH Cisco Certified Network Professional (CCNP)
@@ -72,6 +75,6 @@ Integrating protection and efficiency into the network lifecycle.
 ## 🔗 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/shreehari-375b74222" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:shreehari.uhgmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:shreehari.uh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/shreehariuh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
 </p>
